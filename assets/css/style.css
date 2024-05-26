@@ -469,7 +469,7 @@ h3{
 	padding-inline: 20px;
 	outline: none;
 }
-textarea{
+textarea {
 	width: 100%;
 	height: 250px;
 	background: transparent;
@@ -636,3 +636,4 @@ footer{
 		width: 100%;
 	}
 }
+
